@@ -4,7 +4,8 @@
 			"BaRaN6161 TURK",
 			"HakanIST",
 			"Rapsar",
-			"Sayginer"
+			"Sayginer",
+			"MuratTheTurkish"
 		]
 	},
 	"timeless-desc": "Brandon Harris'in Winter prototipinden sonra tasarlanan zamansız bir görünüm ve Wikimedia Vakfı'nın çeşitli stilleri",
@@ -12,12 +13,12 @@
 	"timeless-loggedinas": "'''$1''' olarak oturum açıldı",
 	"timeless-notloggedin": "Oturum açık değil",
 	"timeless-userpage": "{{GENDER:$1|Kullanıcı}} sayfası",
-	"timeless-talkpage": "{{GENDER:$1|Kullanıcı}} tartışması",
+	"timeless-talkpage": "{{GENDER:$1|Kullanıcı}} mesaj",
 	"timeless-pagelog": "Sayfa günlükleri",
 	"timeless-more": "Daha fazla",
 	"timeless-sitetools": "Viki araçları",
 	"timeless-pageactions": "Sayfa araçları",
-	"timeless-userpagetools": "Kullanıcı sayfası araçları",
+	"timeless-userpagetools": "Kullanıcı sayfa araçları",
 	"timeless-action-addsection": "Yeni konu",
 	"timeless-view-view": "Oku",
 	"timeless-pagemisc": "Daha fazla",
