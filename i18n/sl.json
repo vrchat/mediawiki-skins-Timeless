@@ -16,8 +16,11 @@
 	"timeless-sitetools": "Orodja wikija",
 	"timeless-pageactions": "Orodja strani",
 	"timeless-userpagetools": "Orodja uporabniške strani",
+	"timeless-action-addsection": "Nova tema",
+	"timeless-view-view": "Preberi",
 	"timeless-pagemisc": "Več",
 	"timeless-namespaces": "Imenski prostori",
 	"timeless-pagetools": "Dejanja strani",
-	"timeless-languages": "Jeziki"
+	"timeless-languages": "Jeziki",
+	"timeless-projects": "Drugi projekti"
 }
