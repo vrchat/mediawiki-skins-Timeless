@@ -1,7 +1,10 @@
 {
 	"name": "Timeless",
-	"version": "0.9.1",
-	"author": "Isarra Yos",
+	"version": "0.9.1-vrchat.1",
+	"author": [
+		"Isarra Yos",
+		"[https://vrchat.com VRChat Inc.]"
+	],
 	"url": "https://www.mediawiki.org/wiki/Skin:Timeless",
 	"descriptionmsg": "timeless-desc",
 	"namemsg": "skinname-timeless",
